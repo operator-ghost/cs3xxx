@@ -1,0 +1,8 @@
+{
+    "name": "Operator Ghost CS3XXX",
+    "description": "Providers for NSFW Content",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/operator-ghost/cs3xxx/builds/plugins.json"
+    ]
+}
